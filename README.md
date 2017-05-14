@@ -9,7 +9,7 @@ Voor vragen, mail naar: tomas@harkema.io
 - Download VM van `https://www.dropbox.com/s/th9a3mn2o485ac5/Spark.ova?dl=1`
 - Importeer `Spark.ova` in VirtualBox
     - Kies "Reset Mac adresses"
-- Check in de netwerk instellingen of de portforwarding goed staat. Poort `2222 -> 22`, `8787 -> 8787`, en `9995 -> 9995` zouden open moeten staan.
+- Check in de netwerk instellingen of de portforwarding goed staat. Poort `2222 -> 22`, `8787 -> 8787`, `4040 -> 4040` en `9995 -> 9995` zouden open moeten staan.
 - Start Spark VM
 
 
