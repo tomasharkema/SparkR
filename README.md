@@ -32,7 +32,7 @@ head(df)
 ## Opdracht
 
 - Ga naar de zeppelin interface (`http://localhost:9995/`). 
-
+- Doe de SparkR tutorial via Zepplin Tutorial -> R (SparkR)
 
 ## Referenties:
 - Tutorial SparkR: https://rpubs.com/wendyu/sparkr
