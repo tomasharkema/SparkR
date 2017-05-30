@@ -15,7 +15,7 @@ Voor vragen, mail naar: tomas@harkema.io
 
 ## Testen
 
-- Probeer remote in te loggen op de VM. Password is `spark`. `ssh spark@localhost -p 2222`
+- Probeer remote in te loggen op de VM. User is `spark`, password is `spark`. `ssh spark@localhost -p 2222`
 - Start Spark en Zepplin door `sudo sh start.sh` te runnen. 
 - Check of Zeppelin draait door `http://localhost:9995/` te openen in een browser.
 - Check of SparkR draait door een `R` repl te starten en de volgende commands te runnen:
